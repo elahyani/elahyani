@@ -1,4 +1,4 @@
-[![42 Profile Card](https://1337-readme.vercel.app/api/profile?cursus=42cursus&login=elahyani)](https://github.com/mohouyizme/1337-readme)
+[![42 Profile Card](https://1337-readme.vercel.app/api/profile?cursus=42cursus&dark=true&login=elahyani)](https://github.com/mohouyizme/1337-readme)
 
 <a href="https://github.com/elahyani?tab=repositories">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=elahyani&theme=algolia"/>
