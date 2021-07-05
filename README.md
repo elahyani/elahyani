@@ -3,6 +3,7 @@
 <a href="https://github.com/elahyani?tab=repositories">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=elahyani&theme=algolia"/>
 </a>
+
 <a href="https://github.com/elahyani?tab=repositories">
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=elahyani&line_height=40&show_icons=true&theme=algolia">
 </a>
