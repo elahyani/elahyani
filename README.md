@@ -1,3 +1,4 @@
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=elahyani&theme=dark&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 <a href="https://github.com/elahyani?tab=repositories">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=elahyani&theme=algolia"/>
 </a>
